@@ -4,3 +4,6 @@
 ``` python
 print("Hello World!")
 ```
+- [X] Install python
+- [X] Find Path to Pycharm
+- [ ] Test Pycharm Django
