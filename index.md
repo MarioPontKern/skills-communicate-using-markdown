@@ -1,7 +1,3 @@
-# H1 Header
-## H2 Header
-### H3 Header
-#### H4 Header
-##### H5 Header
-###### H6 Header
-No Header
+# Testing Markdown
+!(Image of Abstract Art)[https://github.com/MarioPontKern/skills-communicate-using-markdown/blob/start-markdown/TestGitHub.png]
+
